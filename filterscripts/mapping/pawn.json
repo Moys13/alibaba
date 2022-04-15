@@ -1,0 +1,16 @@
+{
+	"user": "Moys13",
+	"repo": "mapping",
+	"entry": "mapping.pwn",
+	"output": "../mapping.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"samp-incognito/samp-streamer-plugin:v2.9.5"
+	],
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
+}
